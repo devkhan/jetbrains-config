@@ -1,0 +1,19 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+  </component>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="android.util.Log.d" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAnnotations" value="true" />
+    <option name="collapseInnerClasses" value="true" />
+    <option name="COLLAPSE_INNER_CLASSES" value="true" />
+    <option name="COLLAPSE_ANNOTATIONS" value="true" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="collapseXmlTags" value="true" />
+    <option name="COLLAPSE_XML_TAGS" value="true" />
+  </component>
+</application>
