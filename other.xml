@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
     <option name="FORCE_CLASSIC_VM" value="true" />
@@ -27,10 +30,6 @@
       <option name="ENABLED" value="true" />
     </filter>
     <filter>
-      <option name="PATTERN" value="jdk.internal.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
       <option name="PATTERN" value="junit.*" />
       <option name="ENABLED" value="true" />
     </filter>
@@ -50,17 +49,34 @@
       <option name="PATTERN" value="org.springsource.loaded.*" />
       <option name="ENABLED" value="true" />
     </filter>
-    <filter>
-      <option name="PATTERN" value="javassist.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="org.apache.webbeans.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="com.ibm.ws.*" />
-      <option name="ENABLED" value="true" />
-    </filter>
+  </component>
+  <component name="FileEditorProviderManager">
+    <option name="selectedProviders">
+      <map>
+        <entry key="android-designer,text-editor" value="text-editor" />
+      </map>
+    </option>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="C:/Program Files/nodejs/node.exe" version="0.12.9" last-modified="1449160256000" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="Singleton" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
 </application>
