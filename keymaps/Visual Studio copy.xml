@@ -1,0 +1,6 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+</keymap>
