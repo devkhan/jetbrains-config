@@ -1,6 +1,25 @@
 <application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>General</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:E:/Git/EscherConverter/code_style_settings.xml" />
   </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
