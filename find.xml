@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'E:\Git\EscherConverter\src\test\java\edu\ucsd\sbrg\escher\EscherConverterTest.java'" />
-    <option name="defaultScopeName" value="File 'E:\Git\EscherConverter\src\test\java\edu\ucsd\sbrg\escher\EscherConverterTest.java'" />
-    <option name="SEARCH_SCOPE" value="File 'E:\Git\EscherConverter\src\test\java\edu\ucsd\sbrg\escher\EscherConverterTest.java'" />
+    <option name="customScope" value="Project 'EscherConverter'" />
+    <option name="defaultScopeName" value="Project 'EscherConverter'" />
+    <option name="SEARCH_SCOPE" value="Project 'EscherConverter'" />
   </component>
 </application>
