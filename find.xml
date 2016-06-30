@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'EscherConverter'" />
-    <option name="defaultScopeName" value="Project 'EscherConverter'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="SEARCH_SCOPE" value="Project 'EscherConverter'" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
   </component>
 </application>
