@@ -1,5 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="http://sbgn.org/libsbgn/pd/0.1" />
+    <resource url="http://projects.eml.org/bcb/sbml/level2" location="$USER_HOME$/work/code/git/EscherConverter/data/sbml.layout2.xsd" />
+    <resource url="http://sbgn.org/libsbgn/pd/0.1" location="$USER_HOME$/work/code/git/EscherConverter/lib/sbgn-0.2.jar!/SBGN.xsd" />
+    <resource url="http://www.w3.org/Math/XMLSchema/mathml2/mathml2.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.1/extResources/71de9698_mathml2.xsd" />
   </component>
 </application>
