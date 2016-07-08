@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'E:\Git\EscherConverter\src\test\java\edu\ucsd\sbrg\escher\helper\SbgnEscherTestTuple.java'" />
-    <option name="defaultScopeName" value="File 'E:\Git\EscherConverter\src\test\java\edu\ucsd\sbrg\escher\helper\SbgnEscherTestTuple.java'" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="SEARCH_SCOPE" value="File 'E:\Git\EscherConverter\src\test\java\edu\ucsd\sbrg\escher\helper\SbgnEscherTestTuple.java'" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
   </component>
 </application>
