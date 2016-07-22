@@ -85,6 +85,13 @@
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="C:/Program Files/nodejs/node.exe" version="0.12.9" last-modified="1449160256000" />
   </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/usr/local/bin/python3" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>
