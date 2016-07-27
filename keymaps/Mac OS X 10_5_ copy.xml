@@ -1,6 +1,11 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="Console.TableResult.SelectRow" />
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift space" />
   </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="shift meta s" />
