@@ -13428,6 +13428,11 @@
         <option name="FOREGROUND" value="4b206" />
       </value>
     </option>
+    <option name="PY.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="a6bdc9" />
+      </value>
+    </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
         <option name="FOREGROUND" value="8a7ff" />
