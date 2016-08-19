@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="shift meta a" />
     <keyboard-shortcut first-keystroke="shift space" />
   </action>
+  <action id="Macro.jd">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
