@@ -43466,7 +43466,7 @@
         <entry key="jaconv" value="" />
         <entry key="jacot" value="" />
         <entry key="jacquard" value="" />
-        <entry key="jade" value="" />
+        <entry key="jade" value="0.0.4" />
         <entry key="jadelesscoffee-middleware" value="" />
         <entry key="jademagic" value="" />
         <entry key="jadeqjy_nester" value="" />
@@ -63260,7 +63260,7 @@
         <entry key="pyixia" value="" />
         <entry key="pyjack" value="" />
         <entry key="pyjaco" value="" />
-        <entry key="pyjade" value="" />
+        <entry key="pyjade" value="4.0.0" />
         <entry key="pyjade-coffin" value="" />
         <entry key="pyjags" value="" />
         <entry key="pyjama" value="" />
@@ -74326,7 +74326,7 @@
         <entry key="siva" value="" />
         <entry key="sivart" value="" />
         <entry key="sivel-test" value="" />
-        <entry key="six" value="" />
+        <entry key="six" value="1.10.0" />
         <entry key="sixelplot" value="" />
         <entry key="sixelterm" value="" />
         <entry key="sixer" value="" />
