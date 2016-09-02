@@ -10075,7 +10075,7 @@
         <entry key="ZotonicClient" value="" />
         <entry key="ZubyteSetuptool" value="" />
         <entry key="Zwiki" value="" />
-        <entry key="a" value="" />
+        <entry key="a" value="1.0" />
         <entry key="a-sync" value="" />
         <entry key="a10-horizon" value="" />
         <entry key="a10-neutron-lbaas" value="" />
@@ -22834,7 +22834,7 @@
         <entry key="deform_widget_jquery_option_tree" value="" />
         <entry key="defrost" value="" />
         <entry key="defusedexpat" value="" />
-        <entry key="defusedxml" value="" />
+        <entry key="defusedxml" value="0.4.1" />
         <entry key="degenerate" value="" />
         <entry key="degenerate-dna" value="" />
         <entry key="degreedays" value="" />
@@ -23959,10 +23959,10 @@
         <entry key="django-aliyun-oss2-storage" value="" />
         <entry key="django-aliyun-storage" value="" />
         <entry key="django-all-access" value="" />
-        <entry key="django-allauth" value="" />
+        <entry key="django-allauth" value="1" />
         <entry key="django-allauth-2fa" value="" />
         <entry key="django-allauth-adfs" value="" />
-        <entry key="django-allauth-bootstrap" value="" />
+        <entry key="django-allauth-bootstrap" value="0.2" />
         <entry key="django-allauth-correctiv" value="" />
         <entry key="django-allauth-djrill" value="" />
         <entry key="django-allauth-intersis" value="" />
@@ -24376,7 +24376,7 @@
         <entry key="django-bootstrap-datetimepicker" value="" />
         <entry key="django-bootstrap-dynamic-formsets" value="" />
         <entry key="django-bootstrap-email" value="" />
-        <entry key="django-bootstrap-form" value="" />
+        <entry key="django-bootstrap-form" value="3.2.1" />
         <entry key="django-bootstrap-form-horizontal" value="" />
         <entry key="django-bootstrap-form-tkliuxing" value="" />
         <entry key="django-bootstrap-forms" value="" />
@@ -54445,7 +54445,7 @@
         <entry key="oauthclient" value="" />
         <entry key="oauthenticator" value="" />
         <entry key="oauther" value="" />
-        <entry key="oauthlib" value="" />
+        <entry key="oauthlib" value="1.1.2" />
         <entry key="oauthnesia" value="" />
         <entry key="oawt" value="" />
         <entry key="oaxmlapi" value="" />
@@ -67410,7 +67410,7 @@
         <entry key="python3-memcached" value="" />
         <entry key="python3-mmhash" value="" />
         <entry key="python3-ngrok" value="" />
-        <entry key="python3-openid" value="" />
+        <entry key="python3-openid" value="3.0.10" />
         <entry key="python3-openttd" value="" />
         <entry key="python3-pb2nano" value="" />
         <entry key="python3-pika" value="" />
@@ -70144,7 +70144,7 @@
         <entry key="requestests" value="" />
         <entry key="requestions" value="" />
         <entry key="requeston" value="" />
-        <entry key="requests" value="" />
+        <entry key="requests" value="2.11.1" />
         <entry key="requests-aeaweb" value="" />
         <entry key="requests-aliyun" value="" />
         <entry key="requests-auth-mashery" value="" />
@@ -70183,7 +70183,7 @@
         <entry key="requests-negotiate-sspi" value="" />
         <entry key="requests-oauth" value="" />
         <entry key="requests-oauth2" value="" />
-        <entry key="requests-oauthlib" value="" />
+        <entry key="requests-oauthlib" value="0.6.2" />
         <entry key="requests-raven" value="" />
         <entry key="requests-respectful" value="" />
         <entry key="requests-robotstxt" value="" />
