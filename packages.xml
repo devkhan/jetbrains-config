@@ -21959,7 +21959,7 @@
         <entry key="czjson" value="" />
         <entry key="czml" value="" />
         <entry key="cztext" value="" />
-        <entry key="d" value="" />
+        <entry key="d" value="0.2.2" />
         <entry key="d-clean" value="" />
         <entry key="d2d" value="" />
         <entry key="d2lmf" value="" />
@@ -22680,7 +22680,7 @@
         <entry key="debuilder" value="" />
         <entry key="debuntu-tools" value="" />
         <entry key="debut" value="" />
-        <entry key="dec" value="" />
+        <entry key="dec" value="0.1" />
         <entry key="dec2" value="" />
         <entry key="decafe" value="" />
         <entry key="decanter" value="" />
@@ -22722,9 +22722,9 @@
         <entry key="decorated" value="" />
         <entry key="decorating" value="" />
         <entry key="decorative" value="" />
-        <entry key="decorator" value="" />
+        <entry key="decorator" value="4.0.10" />
         <entry key="decorator-args" value="" />
-        <entry key="decorators" value="" />
+        <entry key="decorators" value="0.1" />
         <entry key="decoroute" value="" />
         <entry key="decorouter" value="" />
         <entry key="decorstate" value="" />
@@ -22847,7 +22847,7 @@
         <entry key="dejumble" value="" />
         <entry key="delaunator" value="" />
         <entry key="delaware" value="" />
-        <entry key="delay_decorator" value="" />
+        <entry key="delay_decorator" value="1.0.1" />
         <entry key="delayqueue" value="" />
         <entry key="delegate" value="" />
         <entry key="delegator" value="" />
@@ -25242,7 +25242,7 @@
         <entry key="django-decorator-include" value="" />
         <entry key="django-decorator-plus" value="" />
         <entry key="django-decoratormixins" value="" />
-        <entry key="django-decorators" value="" />
+        <entry key="django-decorators" value="0.1.1" />
         <entry key="django-decouple" value="" />
         <entry key="django-dedal" value="" />
         <entry key="django-deep-collector" value="" />
