@@ -763,7 +763,7 @@
         <entry key="BooruPy" value="" />
         <entry key="BootFlask" value="" />
         <entry key="BootLintBear" value="" />
-        <entry key="BootstrapPy" value="" />
+        <entry key="BootstrapPy" value="0.6" />
         <entry key="BoozeLib" value="" />
         <entry key="Boris" value="" />
         <entry key="BotBot" value="" />
@@ -23794,7 +23794,7 @@
         <entry key="django-admin-appmenu" value="" />
         <entry key="django-admin-approx-count" value="" />
         <entry key="django-admin-backend" value="" />
-        <entry key="django-admin-bootstrapped" value="" />
+        <entry key="django-admin-bootstrapped" value="2.5.7" />
         <entry key="django-admin-bootstrapped-compatible" value="" />
         <entry key="django-admin-bootstrapped-plus" value="" />
         <entry key="django-admin-changelist-stats" value="" />
@@ -24195,7 +24195,7 @@
         <entry key="django-avsubmit" value="" />
         <entry key="django-aweber" value="" />
         <entry key="django-awesome-avatar" value="" />
-        <entry key="django-awesome-bootstrap" value="" />
+        <entry key="django-awesome-bootstrap" value="3.2.0" />
         <entry key="django-awesome-snippets" value="" />
         <entry key="django-awl" value="" />
         <entry key="django-aws" value="" />
@@ -24365,7 +24365,7 @@
         <entry key="django-bootify" value="" />
         <entry key="django-bootlog" value="" />
         <entry key="django-bootmap" value="" />
-        <entry key="django-bootstrap" value="" />
+        <entry key="django-bootstrap" value="0.2.4" />
         <entry key="django-bootstrap-admin" value="" />
         <entry key="django-bootstrap-assets" value="" />
         <entry key="django-bootstrap-breadcrumbs" value="" />
@@ -28358,7 +28358,7 @@
         <entry key="django-quickedit" value="" />
         <entry key="django-quicktag" value="" />
         <entry key="django-quickview" value="" />
-        <entry key="django-quicky" value="" />
+        <entry key="django-quicky" value="0.6.4" />
         <entry key="django-quiet-runserver" value="" />
         <entry key="django-quieter-formset" value="" />
         <entry key="django-quill" value="" />
@@ -68095,7 +68095,7 @@
         <entry key="pyzxcvbn" value="" />
         <entry key="pyzza" value="" />
         <entry key="pyzzer" value="" />
-        <entry key="q" value="" />
+        <entry key="q" value="2.6" />
         <entry key="q3huff" value="" />
         <entry key="qKDB" value="" />
         <entry key="qPyProfiler" value="" />
