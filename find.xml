@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
+    <option name="customScope" value="Module 'app'" />
+    <option name="defaultScopeName" value="Module 'app'" />
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="SEARCH_SCOPE" value="Module 'app'" />
   </component>
 </application>
