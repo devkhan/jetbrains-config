@@ -13621,6 +13621,11 @@
         <option name="BACKGROUND" value="252b39" />
       </value>
     </option>
+    <option name="RUBY_LOCAL_VAR_ID">
+      <value>
+        <option name="FOREGROUND" value="f06b15" />
+      </value>
+    </option>
     <option name="RUBY_METHOD_NAME">
       <value>
         <option name="FOREGROUND" value="fff100" />
