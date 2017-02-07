@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'AndroidNanodegreeXYZ'" />
-    <option name="defaultScopeName" value="Project 'AndroidNanodegreeXYZ'" />
+    <option name="customScope" value="Module 'app'" />
+    <option name="defaultScopeName" value="Module 'app'" />
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="SEARCH_SCOPE" value="Project 'AndroidNanodegreeXYZ'" />
+    <option name="SEARCH_SCOPE" value="Module 'app'" />
     <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
